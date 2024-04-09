@@ -1,5 +1,5 @@
 ## LinkedIn Learning course on Shell Scripting
-current chapter: Environmental Variables
+current chapter: Functions
 
 completed curriculum:
 1. shell scripting basics
@@ -21,3 +21,13 @@ completed curriculum:
 - challenge: counter
 
 3. environmental variables
+- reading environmental variables
+- standard environmental variables
+- challenge: display a variable
+
+4. functions
+- the basics of functions
+- using parameters
+- piping
+- challenge: pipes and funcs
+
