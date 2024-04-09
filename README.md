@@ -1,5 +1,5 @@
 ## LinkedIn Learning course on Shell Scripting
-current chapter: Sleep and Process
+current progress: Completed the course!
 
 completed curriculum:
 1. shell scripting basics
@@ -42,3 +42,7 @@ completed curriculum:
 - watching a process
 - challenge: watch a script
 
+7. interactive scripts
+- getting user input
+- handling bad data
+- challenge: guessing game
