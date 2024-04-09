@@ -1,5 +1,5 @@
 ## LinkedIn Learning course on Shell Scripting
-current chapter: Functions
+current chapter: Sleep and Process
 
 completed curriculum:
 1. shell scripting basics
@@ -30,4 +30,15 @@ completed curriculum:
 - using parameters
 - piping
 - challenge: pipes and funcs
+
+5. file operations
+- reading files
+- writing files
+- file checksums
+- challenge: read a text file
+
+6. sleep and process
+- using sleep command
+- watching a process
+- challenge: watch a script
 
